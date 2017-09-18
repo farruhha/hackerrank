@@ -7,7 +7,7 @@ All algorithmic and data structure problems and solutions given hacker rank.
 
 ## Data Structures
 
-###Array
+### Array
 
 * [Array] (https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays.java)
 * [2D Array](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays2D.java)
