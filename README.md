@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1> Hacker Rank </h1>
+## Hacker Rank
 
 <h3>30 Days of Code Challenges</h3>
 <ul>
