@@ -6,8 +6,6 @@ All algorithmic and data structure problems and solutions given hacker rank.
 * [Day 0: Hello, World.](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/HelloWorld.java)
 
 ## Data Structures
-
 ### Array
-
-* [Array] (https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays.java)
+* [Array](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays.java)
 * [2D Array](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays2D.java)
