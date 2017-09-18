@@ -2,16 +2,6 @@
 <html>
 <head>
 <style>
-
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 16px;
-    text-decoration: none;
-}
-
 </style>
 </head>
 <body>
@@ -19,10 +9,10 @@ li a {
 
 <h3>30 Days of Code Challenges</h3>
 <ul>
-  <li><a href="#home">Day 0: Hello, World.</a></li>
-  <li><a href="#news">Day 1: Data Types</a></li>
-  <li><a href="#contact">Day 2: Operators</a></li>
-  <li><a href="#about">Day 3: Intro to Conditional Statements</a></li>
+  <li><a href="" style="">Day 0: Hello, World.</a></li>
+  <li><a href="">Day 1: Data Types</a></li>
+  <li><a href="">Day 2: Operators</a></li>
+  <li><a href="">Day 3: Intro to Conditional Statements</a></li>
 </ul>
 
 <h3>Algorithms</h3>
