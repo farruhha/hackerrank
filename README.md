@@ -1,6 +1,7 @@
-# Hacker Rank
+# **Hacker Rank**
 
-All algorithmic and data structure problems and solutions given hacker rank.
+Solutions to algorithm, math and data structure related problems given in competition in 
+Hacker Rank. Below are my solutions for them in order. I am adding solutions continuously. 
 
 ## 30 Days of Code Challenge
 * [Day 0: Hello, World.](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/HelloWorld.java)
