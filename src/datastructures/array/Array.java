@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by farruhhabibullaev on 9/18/17.
  */
-public class Arrays {
+public class Array {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int length = scanner.nextInt();

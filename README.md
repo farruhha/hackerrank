@@ -10,3 +10,4 @@ Hacker Rank. Below are my solutions for them in order. I am adding solutions con
 ### Array
 * [Array](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays.java)
 * [2D Array](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays2D.java)
+* [Left Rotation](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/LeftRotation.java)
