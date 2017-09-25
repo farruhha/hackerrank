@@ -19,4 +19,7 @@ Hacker Rank. Below are my solutions for them in order. I am adding solutions con
 ### Linked Lists
 
 ### Trees
-* []
+* [Tree: Preorder Traversal](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/trees/PreOrderTraverse.java)
+* [Tree: Postorder Traversal](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/trees/PostOrderTraverse.java)
+* [Tree: Inorder Traversal](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/trees/InOrderTraverse.java)
+
