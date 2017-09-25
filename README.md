@@ -12,7 +12,11 @@ Hacker Rank. Below are my solutions for them in order. I am adding solutions con
 * [Day 5: Loops](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/Loops.java)
 * [Day 6: Let's Review](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/LetsReview.java)
 ## Data Structures
-### Array
+### Arrays
 * [Array](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays.java)
 * [2D Array](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays2D.java)
 * [Left Rotation](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/LeftRotation.java)
+### Linked Lists
+
+### Trees
+* []
