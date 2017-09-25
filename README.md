@@ -16,8 +16,6 @@ Hacker Rank. Below are my solutions for them in order. I am adding solutions con
 * [Array](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays.java)
 * [2D Array](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays2D.java)
 * [Left Rotation](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/LeftRotation.java)
-### Linked Lists
-
 ### Trees
 * [Tree: Preorder Traversal](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/trees/PreOrderTraverse.java)
 * [Tree: Postorder Traversal](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/trees/PostOrderTraverse.java)
