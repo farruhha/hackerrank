@@ -5,7 +5,12 @@ Hacker Rank. Below are my solutions for them in order. I am adding solutions con
 
 ## 30 Days of Code Challenge
 * [Day 0: Hello, World.](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/HelloWorld.java)
-
+* [Day 1: Data Types.](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/DataType.java)
+* [Day 2: Operators.](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/Operation.java)
+* [Day 3: Intro to Conditional Statements](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/ConditionStatements.java)
+* [Day 4: Class vs. Instance](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/ClassVSInstance.java)
+* [Day 5: Loops](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/Loops.java)
+* [Day 6: Let's Review](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/codechallenge/LetsReview.java)
 ## Data Structures
 ### Array
 * [Array](https://github.com/FarruhHabibullaev/hackerrank/blob/master/src/datastructures/array/Arrays.java)
