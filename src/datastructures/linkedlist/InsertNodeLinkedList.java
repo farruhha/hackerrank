@@ -20,26 +20,23 @@ public class InsertNodeLinkedList {
     Node InsertNth(Node head, int data, int position) {
         // This is a "method-only" submission.
         // You only need to complete this method.
-        Node newNode = new Node();
-        newNode.data = data;
-
-        if(position  == 0){
-            newNode.next = head;
-            head = newNode;
+        Node node = head;
+        if (position == 0){
+            node = new Node();
+            node.data = data;
+            node.next = head;
+            return node;
+        }
+        else {
+            while(--position > 0){
+                node = node.next;
+            }
+            Node i = node.next;
+            node.next = new Node();
+            node.next.data = data;
+            node.next.next = i;
             return head;
         }
-
-        int counter = 0;
-        Node currentNode  = head;
-        while(counter<position-1){
-            counter++;
-            currentNode = currentNode.next;
-        }
-        newNode.next = currentNode.next;
-        currentNode.next = newNode;
-        head = currentNode;
-        return head;
-
 
     }
 }
