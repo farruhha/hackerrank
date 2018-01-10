@@ -16,24 +16,15 @@ public class CompareTwoLinks {
     }
 
     int CompareLists(Node headA, Node headB) {
-        // This is a "method-only" submission.
-        // You only need to complete this method
-
-        Node a = headA, b = headB;
-        while (a != null && b != null) {
-            if (a.data != b.data)
-                return 1;
-
-            /* If we reach here, then a and b are not null
-               and their data is same, so move to next nodes
-               in both lists */
-            a = a.next;
-            b = b.next;
+        while (headA != null && headB != null) {
+            if (headA.data == headB.data) {
+                headA = headA.next;
+                headB = headB.next;
+            } else {
+                return 0;
+            }
         }
-
-        // If linked lists are identical, then 'a' and 'b' must
-        // be null at this point.
-        return (a == null && b == null) ? 1 : 0;
+        return (headA == null && headB == null) ? 1 : 0;
 
     }
 }
